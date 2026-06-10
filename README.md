@@ -1,5 +1,11 @@
-## Hi there 👋
+## Heyo! 👋
 
+🙋 **Who am I?**
+
+I'm a student at the University of Western Ontario studying Data Science and Psychology. I'm quite passionate about the concept of digital sovereignty and the importance of privacy in our day-to-day lives. I also think mapping and its intersection with data analysis and interpretation is quite neat! 😄
+
+This is what I'm working on at the moment:
+* **[Panopti.ca](https://www.panopti.ca/)** - a project tracking the proliferation of automated licence plate readers (ALPRS) and government operated CCTV cameras across Canada.
 <!--
 **resistanceisliberty/resistanceisliberty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
